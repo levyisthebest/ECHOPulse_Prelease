@@ -1,0 +1,2 @@
+# ECHOPulse_Prelease
+The Pre-lease github repository of ECHOPULSE: ECG CONTROLLED ECHOCARDIO- GRAMS VIDEO GENERATION
