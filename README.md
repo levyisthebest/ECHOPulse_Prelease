@@ -82,3 +82,4 @@ python step1_train.py
 ```python3
 echo_inference.ipynb
 ```
+https://huggingface.co/datasets/Levi980623/ECHOTest/tree/main
