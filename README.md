@@ -86,4 +86,13 @@ python step1_train.py
 ```python3
 echo_inference.ipynb
 ```
-
+### Citation
+If you use the code, please cite the following paper:
+```
+@article{li2024echopulse,
+  title={ECHOPulse: ECG controlled echocardio-grams video generation},
+  author={Li, Yiwei and Kim, Sekeun and Wu, Zihao and Jiang, Hanqi and Pan, Yi and Jin, Pengfei and Song, Sifan and Shi, Yucheng and Yang, Tianze and Liu, Tianming and others},
+  journal={arXiv preprint arXiv:2410.03143},
+  year={2024}
+}
+```
