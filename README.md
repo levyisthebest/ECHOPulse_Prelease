@@ -1,5 +1,5 @@
 # ECHOPulse
-This repository contains the code for the paper [**ECHOPulse: ECG Controlled Echocardiograms Video Generation**](https://arxiv.org/abs/2410.03143). Aiming to generate the ECHO video based on the ECG signal. Model weights will be released after acceptance.
+This repository contains the code for the paper [**ECHOPulse: ECG Controlled Echocardiograms Video Generation**](https://arxiv.org/abs/2410.03143). Aiming to generate the ECHO video based on the ECG signal. Model weights have been released.
 
 ## :mag: Abstract
 
