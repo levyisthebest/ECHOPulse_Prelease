@@ -61,8 +61,24 @@ We visualize each set of ECG-echodiagrams and compared them in the first row (**
 
 
 
-## :hammer_and_wrench: Full code and model weights
+## :hammer_and_wrench: Requirements
 
-All code, training scripts, evaluation metrics, and model weights will be made publicly available upon the paper's acceptance.
+```python3
+conda create -n ECHOPulse python==3.8
+conda activate ECHOPulse
+pip install -r requirements.txt
+```
 
-
+## :gear: Train & Test
+### Training video tokenization model
+```bash
+python step1_train.py
+```
+### Training video generation model
+```bash
+python step1_train.py
+```
+### Inference
+```python3
+echo_inference.ipynb
+```
