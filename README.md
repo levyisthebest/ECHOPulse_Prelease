@@ -79,7 +79,9 @@ python step1_train.py
 ```bash
 python step1_train.py
 ```
+### Pretrained model weights
 [**Model Weights**](https://huggingface.co/datasets/Levi980623/ECHOTest/tree/main) should be downloaded and put into the Model_weights folder.
+
 ### Inference
 ```python3
 echo_inference.ipynb
