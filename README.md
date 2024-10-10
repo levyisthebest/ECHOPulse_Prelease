@@ -70,6 +70,7 @@ pip install -r requirements.txt
 ```
 
 ## :gear: Train & Test
+[**Model Weights**](https://huggingface.co/datasets/Levi980623/ECHOTest/tree/main) can be 
 ### Training video tokenization model
 ```bash
 python step1_train.py
@@ -82,4 +83,4 @@ python step1_train.py
 ```python3
 echo_inference.ipynb
 ```
-https://huggingface.co/datasets/Levi980623/ECHOTest/tree/main
+
