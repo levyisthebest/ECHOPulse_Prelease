@@ -33,7 +33,7 @@ We visualize each set of ECG-echodiagrams and compared them in the first row (**
 | **ECHOPulse (Only natural videos)**      | Private data   | $6.09 \times 10^{-3}$     | $4.41 \times 10^{-2}$     |
 | :trophy: **ECHOPulse (Domain transfer)**          | Private data   | $2.91 \times 10^{-3}$     | $2.97 \times 10^{-2}$     |
 
-## :bar_chart: Results on Clinical and Time-inference Metrics
+## :bar_chart: Results on Clinical EF and Time-inference Metrics
 
 | **Methods**                           | **Condition**  | **S. time** ⬇️   | **R²** ⬆️         | **MAE** ⬇️        | **RMSE** ⬇️       | **Parameters** |
 |---------------------------------------|----------------|------------------|------------------|------------------|------------------|----------------|
