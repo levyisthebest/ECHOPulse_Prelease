@@ -80,7 +80,7 @@ python step1_train.py
 python step1_train.py
 ```
 ### Pretrained model weights
-[**Model Weights**](https://huggingface.co/datasets/Levi980623/ECHOTest/tree/main) should be downloaded and put into the Model_weights folder.
+[**Model Weights**](https://huggingface.co/datasets/Levi980623/ECHOTest/tree/main) should be downloaded and put into the Model_weights folder. The ECG Foundation Model used in this repo is called [**ST-MEM**](https://github.com/bakqui/ST-MEM/tree/main).
 
 ### Inference
 ```python3
