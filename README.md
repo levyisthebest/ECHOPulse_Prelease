@@ -73,11 +73,11 @@ pip install -r requirements.txt
 
 ### Training video tokenization model
 ```bash
-python step2_train.py
+python step1_train.py
 ```
 ### Training video generation model
 ```bash
-python step1_train.py
+python step2_train.py
 ```
 ### Pretrained model weights
 [**Model Weights**](https://huggingface.co/datasets/Levi980623/ECHOTest/tree/main) should be downloaded and put into the Model_weights folder. The ECG Foundation Model used in this repo is called [**ST-MEM**](https://github.com/bakqui/ST-MEM/tree/main).
