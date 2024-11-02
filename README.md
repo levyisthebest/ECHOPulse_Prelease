@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 ### Training video tokenization model
 ```bash
-python step1_train.py
+python step2_train.py
 ```
 ### Training video generation model
 ```bash
