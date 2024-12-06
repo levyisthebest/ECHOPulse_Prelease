@@ -21,7 +21,7 @@ We visualize each set of ECG-echodiagrams and compared them in the first row (**
 
 | ECG Signal from Apple Watch v9 | Generated Echodiagram |
 | --------------------------- | --------------------- 
-| ![ECG](Examples/AppleWatch/ecg_page_2.png) | ![Echo](Examples/AppleWatch/applewatch.gif) |
+| ![ECG](Examples/AppleWatch/ecg_page_2.png) | ![Echo](Examples/AppleWatch/applewatch_11_25.gif) |
 
 ## :bar_chart: Results on Reconstruction Metrics
 
