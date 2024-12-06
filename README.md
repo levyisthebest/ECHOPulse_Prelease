@@ -47,17 +47,21 @@ We visualize each set of ECG-echodiagrams and compared them in the first row (**
 | [**MoonShot**](https://arxiv.org/abs/2401.01827)                 | CAMUS             | Text                 | 48.44 | 202.41   | 0.63      | 61.57    | 290.08   | 0.62      |
 | [**VideoComposer**](https://openreview.net/forum?id=h4r00NGkjR&nesting=2&sort=date-desc)           | CAMUS             | Text                 | 37.68 | 164.96   | 0.60      | 35.04    | 180.32   | 0.61      |
 | [**HeartBeat**](https://arxiv.org/abs/2406.14098)   | CAMUS             | Text                 | 107.66| 305.12   | 0.53      | 76.46    | 381.28   | 0.53      |
+| [**HeartBeat**](https://arxiv.org/abs/2406.14098)    | CAMUS             | Text&Sketch&Mask...   | 25.23 | 97.28    | 0.66      | 31.99    | 159.36   | 0.65      |
 | **ECHOPLuse (Only natural videos)**               | CAMUS             | Text                 | 12.71 | 273.15   | 0.61      | 15.38    | 336.04   | 0.58      |
 | **ECHOPLuse (Domain transfer)**                   | CAMUS             | Text                 | 5.65  | 211.85   | 0.79      | 8.17     | 283.32   | 0.75      |
 | [**EchoDiffusion-4SCM**](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_14)     | Echo-Dynamic      | Text&LVEF            | - | - | -  | 24.00    | 228.00   | 0.48      |
+| [**EchoNet-Synthetic (Video Editing)**](https://arxiv.org/abs/2406.00808) | Echo-Dynamic | LVEF | - | -    |      -     | 16.90    | 87.40    |     -      |
+| [**EchoDiffusion-4SCM**](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_14)     | Echo-Dynamic      | Text&LVEF            | 20.71 | 379.43 | 0.55  | 23.20    | 390.17   | 0.53      |
+| [**EchoNet-Synthetic (Video Editing)**](https://arxiv.org/abs/2406.00808) | Private data | LVEF | 18.39 | 91.29    |      0.56     | 26.13    | 120.91    |     0.55      |
 | **ECHOPLuse (Only natural videos)**               | Echo-Dynamic      | Text                 | 36.10 | 319.25   | 0.39      | 44.21    | 334.95   | 0.35      |
 | **ECHOPLuse (Domain transfer)**                   | Echo-Dynamic      | Text                 | 27.50 | 249.46   | 0.46      | 29.83    | 312.31   | 0.41      |
 | **ECHOPLuse (Only natural videos)**               | Private data      | Text                 | 27.49 | 291.67   | 0.53      | 34.13    | 374.92   | 0.51      |
 | **ECHOPLuse (Domain transfer)**                   | Private data      | Text                 | 25.44 | 224.90   | 0.54      | 31.21    | 334.09   | 0.54      |
 | :2nd_place_medal: **ECHOPLuse (Only natural videos)**               | Private data      | ECG                  | 18.73 | 200.45   | 0.56      | 27.37    | 302.89   | 0.55      |
 | :1st_place_medal: **ECHOPLuse (Domain transfer)**                   | Private data      | ECG                  | 15.50  | 82.44    | 0.67      | 20.82    | 107.40   | 0.66      |
-| [**HeartBeat**](https://arxiv.org/abs/2406.14098)    | CAMUS             | Text&Sketch&Mask...   | 25.23 | 97.28    | 0.66      | 31.99    | 159.36   | 0.65      |
-| [**EchoNet-Synthetic (Video Editing)**](https://arxiv.org/abs/2406.00808) | Echo-Dynamic | Whole Video&LVEF | - | 87.40    |      -     | 16.90    | 87.40    |     -      |
+
+
 
 
 
